@@ -39,13 +39,18 @@ p {
 	background-color: #F5B7B1;
 	box-sizing: border-box;
 	border: 1px solid black;
+	width: 30%
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
 	color: white;
+	box-sizing: border-box;
+	border: 1px solid black;
 }
 .contenedor .contenido .p3{
 	background-color: #FCF3CF;
+	box-sizing: border-box;
+	border: 1px solid black;
 }
 
 
