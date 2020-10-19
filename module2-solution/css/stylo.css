@@ -69,7 +69,7 @@ p {
 	}*/
 }
 /********** medium devices only ***********/
-@media (min-width: 1199px) and (max-width: 992px);{
+@media (min-width: 992px) and (max-width: 1199px);{
 	.contenedor .contenido {
   		width:50%;
 	}
