@@ -30,8 +30,8 @@ p {
 	margin: 15px;
 	box-sizing: border-box;
 	border: 3px solid black;
-	/*width: 30%
-	overflow: hidden;*/
+	width: 100%
+	/*overflow: hidden;*/
 
 }
 .contenedor .contenido .p1{
@@ -39,7 +39,7 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 50px
+	width: 80px
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
@@ -47,14 +47,14 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 50px
+	width: 80px
 }
 .contenedor .contenido .p3{
 	background-color: #FCF3CF;
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 50px
+	width: 80px
 }
 
 
