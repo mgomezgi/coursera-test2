@@ -7,6 +7,9 @@ body {
 	color: black;
 }
 
+.row{
+	width: 100%;
+}
 .contenedor {
 	width: 100%;
 	max-width: 1200px;
@@ -27,8 +30,8 @@ p {
 	margin: 15px;
 	box-sizing: border-box;
 	border: 3px solid black;
-	width: 30%
-	/*overflow: hidden;*/
+	/*width: 30%
+	overflow: hidden;*/
 
 }
 .contenedor .contenido .p1{
