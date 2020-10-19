@@ -11,8 +11,8 @@ body {
 	width: 100%;
 }
 .contenedor {
-	/*width: 100%;*/
-	max-width: 1200px;
+	/*width: 100%;
+	max-width: 1200px;*/
 	margin: 0 auto;
 }
 h1 {
@@ -39,7 +39,7 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 150px
+	width: 50px
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
@@ -47,14 +47,14 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 150px
+	width: 50px
 }
 .contenedor .contenido .p3{
 	background-color: #FCF3CF;
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 150px
+	width: 50px
 }
 
 
