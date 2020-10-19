@@ -71,7 +71,7 @@ p {
 /********** medium devices only ***********/
 @media (min-width: 1199px) and (max-width: 992px);{
 	.contenedor .contenido {
-  		width:45%;
+  		width:50%;
 	}
 	/*.contenedor .contenido .p2{
 		width:45%;
