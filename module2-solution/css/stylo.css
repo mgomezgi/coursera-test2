@@ -60,23 +60,23 @@ p {
 	.contenedor .contenido {
 		width:33%;
 	}
-	.contenedor .contenido .p2{
+	/*.contenedor .contenido .p2{
 		width:33%;
 	}
 	.contenedor .contenido .p3{
 		width:33%;
-	}
+	}*/
 }
 @media (min-width: 991px) and (max-width: 768px);{
-	.contenedor .contenido .p1{
+	.contenedor .contenido {
   		width:50%;
 	}
-	.contenedor .contenido .p2{
+	/*.contenedor .contenido .p2{
 		width:50%;
 	}
 	.contenedor .contenido .p3{
 		width:100%;
-	}
+	}*/
 }
 
 
