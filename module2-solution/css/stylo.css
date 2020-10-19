@@ -36,6 +36,7 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
+	width: 150px
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
