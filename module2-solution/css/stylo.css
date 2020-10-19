@@ -57,7 +57,7 @@ p {
 	width: 80px
 }
 /********** large devices only ***********/
-/*@media (min-width: 1200px){
+@media (min-width: 1200px){
 	.contenedor .contenido .p1{
 		width:33%;
 	}
@@ -67,7 +67,7 @@ p {
 	.contenedor .contenido .p3{
 		width:33%;
 	}
-}*/
+}
 /********** medium devices only ***********/
 @media (min-width: 1199px) and (max-width: 992px);{
 	.contenedor .contenido .p1 {
