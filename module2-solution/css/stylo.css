@@ -57,7 +57,7 @@ p {
 }
 /********** large devices only ***********/
 @media (min-width: 992px){
-	.contenedor .contenido .p1{
+	.contenedor .contenido {
 		width:33%;
 	}
 	.contenedor .contenido .p2{
