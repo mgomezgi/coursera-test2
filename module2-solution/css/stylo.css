@@ -84,4 +84,5 @@ p {
 @media (min-width: 991px) and (max-width: 767px);{
 	.contenedor .contenido {
   		width:100%;
-
+    }
+}
