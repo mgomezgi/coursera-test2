@@ -35,7 +35,7 @@ p {
 	background-color: #F5B7B1;
 	box-sizing: border-box;
 	border: 1px solid black;
-	float: right;
+	/*float: right;*/
 	width: 150px
 }
 .contenedor .contenido .p2{
