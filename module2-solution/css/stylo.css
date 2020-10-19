@@ -18,8 +18,9 @@ h1 {
 	text-align: center;
 }
 p {
+	border: 1px solid black;
   /*width: 30%;
-  border: 1px solid black;
+  
   float: left;
   padding: 10px;*/
 }
