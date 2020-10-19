@@ -17,13 +17,19 @@ h1 {
 	font-size: 22px;
 	text-align: center;
 }
+p {
+  /*width: 30%;
+  border: 1px solid black;
+  float: left;
+  padding: 10px;*/
+}
 .contenedor .contenido{
 	position: relative;
 	background-color:#A6ACAF;
 	float: left; 
 	margin: 15px;
 	box-sizing: border-box;
-	overflow: hidden;
+	/*overflow: hidden;*/
 
 }
 .contenedor .contenido .p1{
@@ -35,5 +41,6 @@ h1 {
 .contenedor .contenido .p3{
 	background-color: #FCF3CF;
 }
+
 
 
