@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-	font-family: Comic Sans MC;
+	font-family: helvetica;
 	font-size: 16px;
 	color: black;
 }
@@ -17,13 +17,8 @@ h1 {
 	font-size: 22px;
 	text-align: center;
 }
-p {
-	
+p {	
 	float: left;
-  /*width: 30%;
-  
-  
-  */
 }
 .contenedor .contenido{
 	position: relative;
@@ -40,8 +35,6 @@ p {
 	background-color: #F5B7B1;
 	box-sizing: border-box;
 	border: 1px solid black;
-	width: 30%
-
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
