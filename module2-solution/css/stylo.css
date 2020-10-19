@@ -37,6 +37,8 @@ p {
 }
 .contenedor .contenido .p1{
 	background-color: #F5B7B1;
+	box-sizing: border-box;
+	border: 1px solid black;
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
