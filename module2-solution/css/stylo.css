@@ -74,15 +74,15 @@ p {
 }
 /********** medium devices only ***********/
 @media (min-width: 768px) and (max-width: 991px);{
-	.contenedor .contenido {
+	.contenedor .contenido .p1{
   		width:50%;
 	}
-	/*.contenedor .contenido .p2{
-		width:45%;
+	.contenedor .contenido .p2{
+		width:50%;
 	}
 	.contenedor .contenido .p3{
 		width:100%;
-	}/*
+	}
 }
 /********** short devices only ***********/
 @media (max-width: 767px);{
