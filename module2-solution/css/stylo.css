@@ -27,6 +27,7 @@ p{
 }
 .contenedor .contenido{
 	/*position: relative;*/
+	float: left;
 	background-color:#A6ACAF;
 	margin: 15px;
 	box-sizing: border-box;
