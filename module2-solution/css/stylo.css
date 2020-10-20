@@ -64,6 +64,7 @@ p {
 @media (min-width: 992px){
 	.col-lg {
 		width:31%;
+		float: left; 
 	}
 	/*.contenedor .contenido .p2{
 		width:33%;
@@ -76,9 +77,11 @@ p {
 @media (min-width: 768px) and (max-width: 991px);{
 	.col-md-4 {
 		width:50%;
+		float: left; 
 	}
 	.col-md-12 {
 		width:100%;
+		float: left; 
 	}
 	/*.contenedor .contenido .p1{
   		width:50%;
