@@ -22,7 +22,9 @@ h1 {
 	font-size: 175%;
 	text-align: center;
 }
-
+p{
+	float: left;
+}
 .contenedor .contenido{
 	/*position: relative;*/
 	background-color:#A6ACAF;
