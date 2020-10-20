@@ -40,11 +40,14 @@ h1 {
 	background-color:#A6ACAF;
 	margin: 15px;
 	box-sizing: border-box;
-	float: left;
+	overflow: hidden;
+	/*float: left;*/
 	/*width: 100%*/
 }
 p{
-	float: left;
+	/*float: left;*/
+	margin: 2%;
+	margin-top : 30px;
 }
 .row{
 	margin-bottom: 15px;
@@ -54,9 +57,8 @@ p{
 @media (min-width: 992px){
 	.col-lg {
 		float: left; 
-		width:33%;
-		
-	}
+		width:33%;	
+	    }
 	/*.contenedor .contenido .p2{
 		width:33%;
 	}
