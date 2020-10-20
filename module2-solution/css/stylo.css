@@ -8,30 +8,14 @@ body {
 }
 
 
-.contenedor {
-	/*width: 100%;
-	max-width: 1200px;*/
-	margin: 0 auto;
-	padding: 10px;
-}
+/* he quitado contenedor*/
+
 h1 {
 	color: black;
 	font-size: 175%;
 	text-align: center;
 }
-p{
-	float: left;
-}
-.contenido{
-	/*position: relative;*/
-	float: left;
-	background-color:#A6ACAF;
-	margin: 15px;
-	box-sizing: border-box;
-	border: 3px solid black;
-	/*width: 100%*/
 
-}
 .p1{
 	
 	font-size: 125%;
@@ -43,10 +27,8 @@ p{
 #chiken{
 	background-color: #F5B7B1;
 }
-.p2{
-	
+.p2{	
 	font-size: 125%;
-	
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
@@ -67,6 +49,18 @@ p{
 #sushi {
 	background-color: #FCF3CF;
 }
+.contenido{
+	/*position: relative;*/
+	float: left;
+	background-color:#A6ACAF;
+	margin: 15px;
+	box-sizing: border-box;
+	border: 3px solid black;
+	/*width: 100%*/
+}
+p{
+	float: left;
+}
 .row{
 	margin-bottom: 15px;
 	width: 100%;
@@ -74,8 +68,9 @@ p{
 /********** large devices only ***********/
 @media (min-width: 992px){
 	.col-lg {
-		width:33%;
 		float: left; 
+		width:33%;
+		
 	}
 	/*.contenedor .contenido .p2{
 		width:33%;
@@ -87,12 +82,12 @@ p{
 /********** medium devices only ***********/
 @media (min-width: 768px) and (max-width: 991px);{
 	.col-md-6 {
-		width:50%;
 		float: left; 
+		width:50%;
 	}
 	.col-md-12 {
-		width:100%;
 		float: left; 
+		width:100%;
 	}
 	/*.contenedor .contenido .p1{
   		width:50%;
