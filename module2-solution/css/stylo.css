@@ -37,6 +37,7 @@ p {
 }
 .contenedor .contenido .p1{
 	background-color: #F5B7B1;
+	font-size: 18px;
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
@@ -44,6 +45,7 @@ p {
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
+	font-size: 18px;
 	color: white;
 	box-sizing: border-box;
 	border: 1px solid black;
@@ -52,6 +54,7 @@ p {
 }
 .contenedor .contenido .p3{
 	background-color: #FCF3CF;
+	font-size: 18px;
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
