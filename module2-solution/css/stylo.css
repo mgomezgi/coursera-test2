@@ -22,13 +22,10 @@ h1 {
 	font-size: 175%;
 	text-align: center;
 }
-p {	
-	/*float: left;*/
-}
+
 .contenedor .contenido{
 	/*position: relative;*/
 	background-color:#A6ACAF;
-	/*float: left; */
 	margin: 15px;
 	box-sizing: border-box;
 	border: 3px solid black;
@@ -75,11 +72,11 @@ p {
 }
 /********** medium devices only ***********/
 @media (min-width: 768px) and (max-width: 991px);{
-	.col-md-6 {
+	.col-md-4 {
 		width:50%;
 		float: left; 
 	}
-	.col-md-12 {
+	.col-md-6 {
 		width:100%;
 		float: left; 
 	}
