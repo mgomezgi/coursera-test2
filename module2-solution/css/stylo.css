@@ -41,7 +41,7 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 80px
+	width: 100px
 }
 .contenedor .contenido .p2{
 	background-color: #E74C3C;
@@ -50,7 +50,7 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 80px
+	width: 100px
 }
 .contenedor .contenido .p3{
 	background-color: #FCF3CF;
@@ -58,7 +58,7 @@ p {
 	box-sizing: border-box;
 	border: 1px solid black;
 	float: right;
-	width: 80px
+	width: 100px
 }
 /********** large devices only ***********/
 @media (min-width: 992px){
