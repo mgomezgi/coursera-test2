@@ -23,7 +23,7 @@ h1 {
 	text-align: center;
 }
 p{
-	float: left;
+	/*float: left;*/
 }
 .contenedor .contenido{
 	/*position: relative;*/
